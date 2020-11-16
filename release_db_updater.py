@@ -1,7 +1,6 @@
 import sys
 sys.path.insert(0, "/home/Shared")
 sys.path.insert(0, "/home/DB_model")
-sys.path.insert(0, "/Users/a16711105/db_model")
 
 from sqlalchemy.inspection import inspect
 import pandas as pd
